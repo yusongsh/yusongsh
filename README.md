@@ -4,7 +4,8 @@
 
 
  
-### Hi there 👋 , I am Yusong Shi 
+### Hi there 👋 , I am **Yusong Shi** 
+
 As a full-stack software engineer, I build creative, interactive, and delightful web applications that solve practical, real-world problems. With a background in product design, I approach each web application through the lens of the user, always striving for solutions that improve efficiency for all.
   
 <div>
