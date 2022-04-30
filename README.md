@@ -68,6 +68,9 @@ As a full-stack software engineer, I build creative, interactive, and delightful
 [![Photoshop](https://img.shields.io/badge/-adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=FFFFFF)](https://www.adobe.com)
 [![Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=FFFFFF)](https://www.adobe.com)
 [![Figma](https://img.shields.io/badge/-figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://www.figma.com)
+[![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=FFFFFF)](https://www.dribbble.com)
+[![Behance](https://img.shields.io/badge/-Behance-1769ff?style=for-the-badge&logo=behance&logoColor=FFFFFF)](https://www.behance.com)
+
 
 
 
