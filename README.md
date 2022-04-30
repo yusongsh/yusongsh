@@ -8,7 +8,7 @@
 As a full-stack software engineer, I build creative, interactive, and delightful web applications that solve practical, real-world problems. With a background in product design, I approach each web application through the lens of the user, always striving for solutions that improve efficiency for all.
   
 <div>
-    <a href="https://www.yusong.space/"><img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=awesome-lists&logoColor=white" />  </a>
+    <a href="https://yusong.space/"><img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=awesome-lists&logoColor=white" />  </a>
     <a href="https://www.linkedin.com/in/yusongshi/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
 <!--     <a href="https://github.com/yusongsh"><img src="https://img.shields.io/github/followers/yusongsh?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a> -->
     <a href="mailto: sysjackie@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
