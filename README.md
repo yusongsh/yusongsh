@@ -11,9 +11,9 @@ As a full-stack software engineer, I build creative, interactive, and delightful
 <br>
 
 [![My LinkedIn profile](https://img.shields.io/badge/-Yusong%20Shi-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/yusongshi/)
-[![My Gamil](https://img.shields.io/badge/-Yusong%20Shi-BB001B?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](sysjackie@gmail.com)
+[![My Gamil](https://img.shields.io/badge/-Yusong%20Shi-BB001B?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:sysjackie@gmail.com)
 [![My Instagram](https://img.shields.io/badge/-Yusong%20Shi-833AB4?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/jackeeeeshi/)
-[![My Website](https://img.shields.io/badge/-Yusong.%20Space-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF)](https://www.instagram.com/jackeeeeshi/)
+[![My Website](https://img.shields.io/badge/-Yusong.%20Space-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF)](https://yusong.space)
 [![My Github](https://img.shields.io/badge/-Yusong.%20Shi-181717?style=for-the-badge&logo=Github&logoColor=FFFFFF)](https://github.com/yusongsh)
 
 ---
