@@ -8,12 +8,15 @@
 
 As a full-stack software engineer, I build creative, interactive, and delightful web applications that solve practical, real-world problems. With a background in product design, I approach each web application through the lens of the user, always striving for solutions that improve efficiency for all.
   
-<div>
-    <a href="https://yusong.space/"><img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=awesome-lists&logoColor=white" />  </a>
-    <a href="https://www.linkedin.com/in/yusongshi/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
-<!--     <a href="https://github.com/yusongsh"><img src="https://img.shields.io/github/followers/yusongsh?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a> -->
-    <a href="mailto: sysjackie@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
-</div>
+
+<br>
+
+[![My LinkedIn profile](https://img.shields.io/badge/-Yusong%20Shi-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/yusongshi/)
+[![My Gamil](https://img.shields.io/badge/-Yusong%20Shi-BB001B?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](sysjackie@gmail.com)
+[![My Instagram](https://img.shields.io/badge/-Yusong%20Shi-833AB4?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/jackeeeeshi/)
+[![My Website](https://img.shields.io/badge/-Yusong.%20Space-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF)](https://www.instagram.com/jackeeeeshi/)
+[![My Github](https://img.shields.io/badge/-Yusong.%20Shi-181717?style=for-the-badge&logo=Github&logoColor=FFFFFF)](https://github.com/yusongsh)
+
 
 <br>
 
