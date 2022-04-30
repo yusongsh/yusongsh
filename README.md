@@ -35,6 +35,8 @@ As a full-stack software engineer, I build creative, interactive, and delightful
 
 ![Yusong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusongsh&show_icons=true&theme=ayu-mirage)
 
+![Yusong's GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yusongsh&theme=ayu-mirage)
+
 
 #### Regularly using... 🧰
 
