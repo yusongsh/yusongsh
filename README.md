@@ -31,7 +31,7 @@ As a full-stack software engineer, I build creative, interactive, and delightful
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusongsh&layout=compact&theme=ayu-mirage&hide=python,ejs)](https://github.com/yusongsh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusongsh&layout=compact&theme=ayu-mirage)](https://github.com/yusongsh/github-readme-stats)
 
 ![Yusong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusongsh&show_icons=true&theme=ayu-mirage)
 
