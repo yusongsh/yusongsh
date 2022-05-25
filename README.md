@@ -1,13 +1,13 @@
 <!-- <div id="header" align="center"> -->
-  <img src="https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" width="300"/>
+
+[chrome offline game cast](assets/corona-runner.gif)
+
 <!-- </div> -->
 
-
- 
-### Hi there 👋 , I am **Yusong Shi** 
+### Hi there 👋 , I am **Yusong Shi**
 
 As a full-stack software engineer, I build creative, interactive, and delightful web applications that solve practical, real-world problems. With a background in product design, I approach each web application through the lens of the user, always striving for solutions that improve efficiency for all.
-  
+
 <br>
 
 [![My LinkedIn profile](https://img.shields.io/badge/-Yusong%20Shi-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/yusongshi/)
@@ -22,7 +22,7 @@ As a full-stack software engineer, I build creative, interactive, and delightful
 
 - 🔭 I’m currently working on building my Portfolio
 - 🌱 I’m currently learning Python and Django
-- 👯 I’m looking to collaborate with UX designers 
+- 👯 I’m looking to collaborate with UX designers
 - 🤔 I’m looking for help with Redux
 - 💬 Ask me about UI/UX Design, Photography, Food, NBA...
 - 📫 How to reach me: Check the links above
@@ -30,13 +30,11 @@ As a full-stack software engineer, I build creative, interactive, and delightful
 
 <br>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusongsh&layout=compact&theme=ayu-mirage)](https://github.com/yusongsh/github-readme-stats)
 
 ![Yusong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusongsh&show_icons=true&theme=ayu-mirage)
 
 ![Yusong's GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yusongsh&theme=ayu-mirage)
-
 
 #### Regularly using... 🧰
 
@@ -72,10 +70,3 @@ As a full-stack software engineer, I build creative, interactive, and delightful
 [![Figma](https://img.shields.io/badge/-figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://www.figma.com)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=FFFFFF)](https://www.dribbble.com)
 [![Behance](https://img.shields.io/badge/-Behance-1769ff?style=for-the-badge&logo=behance&logoColor=FFFFFF)](https://www.behance.com)
-
-
-
-
-
-
-
