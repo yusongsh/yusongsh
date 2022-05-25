@@ -1,7 +1,5 @@
 <!-- <div id="header" align="center"> -->
-
-[chrome offline game cast](assets/corona-runner.gif)
-
+  <img src="./assets/corona-runner.gif"/>
 <!-- </div> -->
 
 ### Hi there 👋 , I am **Yusong Shi**
