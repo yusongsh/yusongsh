@@ -1,5 +1,5 @@
 <!-- <div id="header" align="center"> -->
-  <img src="./assets/corona-runner.gif"/>
+<!--   <img src="./assets/corona-runner.gif"/> -->
 <!-- </div> -->
 
 ### Hi there 👋 , I am **Yusong Shi**
