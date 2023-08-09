@@ -18,7 +18,7 @@ As a full-stack software engineer, I build creative, interactive, and delightful
 
 #### Skills and Experience 👨‍💻
 
-- 🔭 I’m currently working on building my Portfolio V2.0
+- 🔭 I’m currently working on building my Portfolio V4.0
 - 🌱 I’m currently learning Next.JS 
 - 👯 I’m looking to collaborate with UX/UI designers, photographers, or anyone who has a project in mind. 
 - 💬 Ask me about Product Design, Photography, Frontend development
